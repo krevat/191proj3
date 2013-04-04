@@ -1,0 +1,5 @@
+index.php displays the html for the web page. it also opens up a file, counter.py, which keeps a count of how many times the page has been reached/refreshed. it does this by opening up a text file, updating the number, rewriting it to the file, and displaying that number on the web page.
+
+index.php additionally keeps a log file of users ip addresses and browsers, as well as the date.
+
+You can view this in action at https://fling.seas.upenn.edu/~krevat/cgi-bin/index.php
